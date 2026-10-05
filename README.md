@@ -1,9 +1,5 @@
 # Lab Sheet-02: Data Preprocessing
 
-**Name:** <your name>
-**Roll No:** <your roll number>
-**Course:** MCA, 3rd Semester (2026-2027)
-**University:** COER University, Roorkee
 
 ## About this project
 
@@ -85,6 +81,3 @@ Python version: 3.11 or above.
 - Outliers in area and price pulled the mean up. The median was a safer choice.
 - Log transform made the skewed columns more balanced.
 
-## Conclusion
-
-<Write 2-3 lines in your own words about what you learned.>
