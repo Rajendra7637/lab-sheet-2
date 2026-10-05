@@ -1,6 +1,3 @@
-
-
-# %% [markdown]
 # ## Setup: imports, paths and helper functions
 
 # %%
@@ -532,8 +529,4 @@ print("\nFinal shape:", final_df.shape)
 print(final_df.head())
 save_step(final_df, "final_preprocessed.csv")
 
-# %% [markdown]
-# ## Conclusion
-# All 35 experiments of Lab Sheet-02 were completed. Missing values and outliers
-# were handled, features were scaled and encoded, new features were created,
-# and a clean dataset ready for machine learning was saved.
+
